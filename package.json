@@ -1,0 +1,17 @@
+{
+  "name": "1apirest",
+  "version": "1.0.0",
+  "description": "Node.js classes to learn how to work with API Rest",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "zonzz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
