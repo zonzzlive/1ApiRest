@@ -4,7 +4,7 @@
   "description": "Node.js classes to learn how to work with API Rest",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "nodemon app.js"
   },
   "author": "zonzz",
   "license": "ISC",
